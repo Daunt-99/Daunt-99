@@ -76,15 +76,10 @@ Integrates Gemini AI for natural language itinerary generation with a FastAPI ba
 
 ---
 
-## GitHub Stats
+## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daunt-99&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&cache_seconds=1800" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daunt-99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800" height="155"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daunt-99&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=8b949e" height="155"/>
+  <img src="https://raw.githubusercontent.com/Daunt-99/Daunt-99/output/github-snake-dark.svg" alt="contribution snake"/>
 </div>
 
 ---
