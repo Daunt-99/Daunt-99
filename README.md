@@ -79,7 +79,7 @@ Integrates Gemini AI for natural language itinerary generation with a FastAPI ba
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Daunt-99/Daunt-99/output/github-snake-dark.svg" alt="contribution snake"/>
+  <img src="night-sky.svg" alt="Night sky map of my contributions, with stars connected into streaks"/>
 </div>
 
 ---
