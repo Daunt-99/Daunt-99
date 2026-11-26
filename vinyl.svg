@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 320" role="img">
+<title>Contribution LP by Daunt-99</title>
+<desc>A spinning vinyl record. The twelve grooves run from oldest month outside to newest inside. Each gold mark is an active day. Brighter marks indicate more activity.</desc>
+<defs>
+  <linearGradient id="sleeve" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#173d3a"/><stop offset="1" stop-color="#0b2328"/></linearGradient>
+  <radialGradient id="wax"><stop stop-color="#292a29"/><stop offset=".63" stop-color="#14171a"/><stop offset="1" stop-color="#24292a"/></radialGradient>
+  <linearGradient id="gloss" x2="1" y2=".3"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".48" stop-color="#fff" stop-opacity="0"/><stop offset=".55" stop-color="#fff" stop-opacity=".15"/><stop offset=".64" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<style>.disc{animation:spin 10s linear infinite;transform-origin:0 0}@keyframes spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.disc{animation:none}}</style>
+<rect width="840" height="320" rx="14" fill="url(#sleeve)"/>
+<g fill="#efe5ce" font-family="monospace">
+<text x="44" y="63" font-size="13" letter-spacing="2.4">DAUNT–99  /  STEREO</text>
+<text x="40" y="134" font-family="Georgia,serif" font-size="54">Contribution LP</text>
+<path d="M44 161H405" stroke="#73918a"/>
+<text x="44" y="198" font-size="15">12 grooves · one per month</text>
+<text x="44" y="222" font-size="15">Gold flecks mark active days</text>
+<text x="44" y="279" font-size="13" letter-spacing="1.2">Dec 2025 — Nov 2026</text></g>
+<g transform="translate(624 160)"><circle r="142" fill="#0a191b"/>
+<g class="disc"><circle r="137" fill="url(#wax)" stroke="#555d58"/>
+<circle r="125" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="119" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="113" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="107" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="101" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="95" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="89" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="83" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="77" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="71" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="65" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle r="59" fill="none" stroke="#555957" stroke-width=".85"/>
+<circle cx="0.00" cy="-125.00" r="1.42" fill="#ffdc90" opacity="0.61"/>
+<circle cx="-112.23" cy="55.05" r="1.42" fill="#ffdc90" opacity="0.61"/>
+<circle cx="-117.63" cy="-18.02" r="1.42" fill="#ffdc90" opacity="0.61"/>
+<circle cx="75.06" cy="67.58" r="1.42" fill="#ffdc90" opacity="0.61"/>
+<circle cx="-41.08" cy="92.27" r="1.84" fill="#ffdc90" opacity="0.74"/>
+<circle cx="-9.61" cy="94.51" r="2.68" fill="#ffdc90" opacity="1.00"/>
+<circle cx="-28.44" cy="90.64" r="1.84" fill="#ffdc90" opacity="0.74"/>
+<circle cx="-46.10" cy="83.06" r="1.42" fill="#ffdc90" opacity="0.61"/>
+<circle cx="34.68" cy="-47.73" r="1.42" fill="#ffdc90" opacity="0.61"/>
+<circle cx="43.85" cy="-39.48" r="1.42" fill="#ffdc90" opacity="0.61"/>
+<circle cx="51.10" cy="-29.50" r="2.68" fill="#ffdc90" opacity="1.00"/>
+<circle cx="-56.11" cy="-18.23" r="1.42" fill="#ffdc90" opacity="0.61"/>
+<circle cx="-51.10" cy="-29.50" r="1.84" fill="#ffdc90" opacity="0.74"/>
+<circle r="45" fill="#e6a85b"/>
+<path d="M-39 -16 Q0 -49 39 -16 Q0 -32 -39 -16Z" fill="#943e32"/>
+<text y="25" text-anchor="middle" font-family="monospace" font-size="9" letter-spacing="2" fill="#472b20">SIDE A</text>
+</g><circle r="136" fill="url(#gloss)"/><circle r="4.2" fill="#101817" stroke="#f7d7a7"/></g>
+<g stroke-linecap="round"><path d="M786 62L779 141L753 173" stroke="#0a1c1e" stroke-width="11" fill="none"/>
+<path d="M785 58L778 137L752 169" stroke="#c0b49b" stroke-width="5" fill="none"/>
+<circle cx="785" cy="58" r="11" fill="#5e6860" stroke="#d1c09e"/>
+<path d="M756 164L747 175" stroke="#e5b66e" stroke-width="9"/></g></svg>

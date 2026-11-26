@@ -79,7 +79,7 @@ Integrates Gemini AI for natural language itinerary generation with a FastAPI ba
 ## Contribution Graph
 
 <div align="center">
-  <img src="night-sky.svg" alt="Night sky map of my contributions, with stars connected into streaks"/>
+  <img src="vinyl.svg" alt="Spinning vinyl record with monthly grooves and gold flecks for active contribution days"/>
 </div>
 
 ---
