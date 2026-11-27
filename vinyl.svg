@@ -41,7 +41,7 @@
 <circle cx="43.85" cy="-39.48" r="1.42" fill="#ffdc90" opacity="0.61"/>
 <circle cx="51.10" cy="-29.50" r="2.68" fill="#ffdc90" opacity="1.00"/>
 <circle cx="-56.11" cy="-18.23" r="1.42" fill="#ffdc90" opacity="0.61"/>
-<circle cx="-51.10" cy="-29.50" r="1.84" fill="#ffdc90" opacity="0.74"/>
+<circle cx="-51.10" cy="-29.50" r="2.68" fill="#ffdc90" opacity="1.00"/>
 <circle r="45" fill="#e6a85b"/>
 <path d="M-39 -16 Q0 -49 39 -16 Q0 -32 -39 -16Z" fill="#943e32"/>
 <text y="25" text-anchor="middle" font-family="monospace" font-size="9" letter-spacing="2" fill="#472b20">SIDE A</text>
